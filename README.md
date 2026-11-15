@@ -6,8 +6,8 @@
 Still in transit. I just like tinkering with tech, hardware and software. Right now that's mostly security and AI, plus hackathons, usually the optimisation kind. I'll post write-ups here as I go.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,pytorch,linux,bash,aws,docker,mysql,git&theme=dark&perline=12">
-  <img alt="Python, PyTorch, Linux, Bash, AWS, Docker, MySQL, Git" src="https://skillicons.dev/icons?i=py,pytorch,linux,bash,aws,docker,mysql,git&theme=light&perline=12">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cpytorch%2Clinux%2Cbash%2Caws%2Cdocker%2Cmysql%2Cgit&theme=dark&perline=12">
+  <img alt="Python, PyTorch, Linux, Bash, AWS, Docker, MySQL, Git" src="https://skillicons.dev/icons?i=py%2Cpytorch%2Clinux%2Cbash%2Caws%2Cdocker%2Cmysql%2Cgit&theme=light&perline=12">
 </picture>
 
 <br><br>
