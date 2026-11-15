@@ -1,16 +1,13 @@
-### Hi there 👋
+```
+$ traceroute hamza
+ 1  kuala-lumpur   BSc Computer Science, cybersecurity     Taylor's University       2020–23
+ 2  zug (remote)   blockchain engineer intern              Energy Web                2022–23
+ 3  dubai          IT, keeping a luxury hotel online       Bvlgari Hotels & Resorts  2024–26
+ 4  after-hours    built and shipped my own SaaS products                            2025–
+ 5  gpumode.com    finalist, AMD × GPU MODE kernel speedrun                          2026
+ 6  hangzhou       MSc Cyberspace Security                 Zhejiang University       2026–
+```
 
-<!--
-**ihamzazam/ihamzazam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Still in transit. I just like tinkering with tech, hardware and software. Right now that's mostly security and AI, plus hackathons, usually the optimisation kind. I'll post write-ups here as I go.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/ihamzazam) · [X](https://x.com/ihamzazam) · [Email](mailto:hamzazam00@gmail.com)
